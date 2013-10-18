@@ -1,15 +1,15 @@
 {
-  "name": "episode-1",
+  "name": "mocha-webstorm",
   "version": "0.0.0",
-  "description": "Episode 1",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha test -w -R spec"
   },
-  "author": "Tyler Garlick",
-  "license": "MIT",
+  "author": "",
+  "license": "BSD-2-Clause",
   "devDependencies": {
-    "mocha": "*",
+    "mocha": "~1.13.0",
     "expect.js": "~0.2.0"
   }
 }
